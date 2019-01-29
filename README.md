@@ -13,3 +13,5 @@ Left Mouse button = click to shoot
 The game uses Unity 4 game engine. The game's AI uses A* Pathfinding Project (https://arongranberg.com/astar/).
 
 This project is based from 'Unity Create a Game Series' by Sebastian Lague (https://www.youtube.com/playlist?list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0).
+
+The game is avilable for download from https://jeraldcrisbergantinos.itch.io/capsuleshooter.
