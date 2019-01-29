@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C92620E7-885F-EDC2-4038-3A97389287C3}") = "Top Down Shooter", "Assembly-CSharp.csproj", "{F948D9E2-CBAA-268D-E616-F384CF425487}"
+EndProject
+Project("{C92620E7-885F-EDC2-4038-3A97389287C3}") = "Top Down Shooter", "Assembly-CSharp-Editor.csproj", "{42498906-2868-72B1-9C83-09318E56D820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F948D9E2-CBAA-268D-E616-F384CF425487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F948D9E2-CBAA-268D-E616-F384CF425487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F948D9E2-CBAA-268D-E616-F384CF425487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F948D9E2-CBAA-268D-E616-F384CF425487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42498906-2868-72B1-9C83-09318E56D820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42498906-2868-72B1-9C83-09318E56D820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42498906-2868-72B1-9C83-09318E56D820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42498906-2868-72B1-9C83-09318E56D820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
